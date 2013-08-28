@@ -1,4 +1,4 @@
-<VirtualHost *>
+<VirtualHost *:80>
     ServerName sample.app
     DocumentRoot /var/www/sampleapp/web/
 </VirtualHost>
