@@ -1,4 +1,0 @@
-<VirtualHost *>
-    ServerName sample.app
-    DocumentRoo /var/www/sampleapp/web/
-</VirtualHost>
