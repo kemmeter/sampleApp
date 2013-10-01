@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Sample App</title>
+    <title>1UP for fabric</title>
     <meta charset="UTF-8" >
     <link rel="stylesheet" href="stylesheets/screen.css">
 </head>
@@ -16,7 +16,7 @@
         </nav>
     </header>
     <section>
-        <h1>Sample App</h1>
+        <h1>1UP for deployment with fabric</h1>
         <p>Zwei flinke Boxer jagen die quirlige Eva und ihren Mops durch Sylt. Franz jagt im komplett verwahrlosten Taxi
             quer durch Bayern. Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich. Vogel Quax zwickt Johnys
             Pferd Bim. Sylvia wagt quick den Jux bei Pforzheim. Polyfon zwitschernd aßen Mäxchens Vögel Rüben, Joghurt
