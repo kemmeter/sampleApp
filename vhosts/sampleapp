@@ -1,4 +1,4 @@
 <VirtualHost *:80>
-    ServerName sample.app
+    ServerName 1up.vbox
     DocumentRoot /var/www/sampleapp/web/
 </VirtualHost>
